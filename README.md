@@ -16,4 +16,6 @@
  python bencaogangmu.py
  
  效果如下：
- ![image]( https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+ ![image](https://github.com/IPostMan/Fix-Keep/blob/main/show/show.mp4)
+ 
+ 
