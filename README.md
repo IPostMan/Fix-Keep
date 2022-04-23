@@ -16,6 +16,6 @@
  python bencaogangmu.py
  
  效果如下：
- ![image](https://gifs.com/?source=https://storage.googleapis.com/user-uploaded-media/71000b22-ce5d-4db2-a9f6-e74630b5e7a5.mp4)
+ ![image]()
  
  
